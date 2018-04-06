@@ -32,3 +32,5 @@ hofmann+puzicha-1999.pdf
 scalable online collaborative filtering. In Proceedings of the 16th international conference on World
 Wide Web (pp. 271-280). ACM. –
 https://pdfs.semanticscholar.org/fb42/07376177f18a6cf58b53ecd231fb3395ca33.pdf
+
+https://spark.apache.org/docs/2.2.0/mllib-collaborative-filtering.html
