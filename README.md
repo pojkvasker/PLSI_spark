@@ -33,4 +33,7 @@ scalable online collaborative filtering. In Proceedings of the 16th internationa
 Wide Web (pp. 271-280). ACM. –
 https://pdfs.semanticscholar.org/fb42/07376177f18a6cf58b53ecd231fb3395ca33.pdf
 
+Alternating Least Square Algo for PySpark:
 https://spark.apache.org/docs/2.2.0/mllib-collaborative-filtering.html
+Single Value Decomposition Algo:
+https://web.stanford.edu/class/cme335/lecture6.pdf
